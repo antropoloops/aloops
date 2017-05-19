@@ -1,0 +1,33 @@
+/* some style */
+
+html, body {
+  margin: 0;
+  font-family: 'PT Sans', sans-serif;
+}
+
+body {
+  color: #EEE;
+  background-color: #000;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+}
+
+.App {
+  margin: 40px;
+}
+
+.Keys {
+  width: 100%;
+  overflow: hidden;
+}
+
+.Key {
+  text-align: center;
+  padding: 2em;
+  float: left;
+  background-color: #333;
+  margin-right: 0.25em;
+  border-radius: 3px;
+}
