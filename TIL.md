@@ -43,3 +43,11 @@ NOTE: **it doesn't work with event handlers**
         (.log js/console "Unmount!")
         (.removeEventListener js/window "keydown" onKeyDown))}))
 ```
+
+#### -> y ->>
+
+#### doto
+
+#### do implícito
+
+El `let`, el `when`, el `defn` (al menos estos)
